@@ -1,3 +1,3 @@
-**E-Commerce Template**
+**Magacsan**
 
 This is a simple and easy to integrate e-commerce design template based on Bootstrap 5.
